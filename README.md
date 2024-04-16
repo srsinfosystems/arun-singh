@@ -1,5 +1,5 @@
 # Arun Singh
-<img src="https://www.teamob.ai/images/Arun-Singh.gif">
+<img src="https://www.teamob.ai/images/arun-singh.gif">
 
 <b>Welcome! I'm Arun Singh, dedicated to delivering Innovative Technology Solutions and ensuring Exceptional Service, available round the clock for support.</b>
 
