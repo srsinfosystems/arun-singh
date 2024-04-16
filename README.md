@@ -14,7 +14,7 @@ My expertise spans across various domains:
 📊 Google Workspace: Well-versed in Apps Script.<br>
 🌐 Platforms: Familiar with AWS, Digital Ocean.<br>
 🖥️ Operating Systems: Experienced with Ubuntu and Ubuntu Server.<br>
-🔄 Version Control: Proficient in managing version control systems.<br>
+🔄 Version Control: Proficient in managing version control systems.<br><br>
 In addition to the above, I possess expertise in Salesforce, UI Path, Automation Anywhere, website development, WordPress, Bootstrap, HTML5, CSS3, JavaScript, jQuery, PSD to HTML, PSD to WordPress, AngularJS, Node.js, and ReactJS, among others.
 
 I'm committed to providing top-notch solutions and unwavering support to meet your technological needs.
