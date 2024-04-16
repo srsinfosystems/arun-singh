@@ -1,5 +1,5 @@
-# Sumit
-<img src="https://www.teamob.ai/images/Arun-Singh-github-profile.gif">
+# Arun Singh
+<img src="https://www.teamob.ai/images/Arun-Singh.gif">
 
 <b>Welcome! I'm Arun Singh, dedicated to delivering Innovative Technology Solutions and ensuring Exceptional Service, available round the clock for support.</b>
 
@@ -7,14 +7,14 @@ Backed by a robust educational foundation in Computer Science, including both ma
 
 My expertise spans across various domains:
 
-⚙️ Web Technologies: Proficient in PHP, cakePHP, Laravel, Symfony, CodeIgniter.
-📱 Mobile Technologies: Experienced in React Native.
-📜 JavaScript Frameworks: Skilled in Bootstrap, jQuery, TypeScript.
-🐍 Programming Languages: Fluent in Python.
-📊 Google Workspace: Well-versed in Apps Script.
-🌐 Platforms: Familiar with AWS, Digital Ocean.
-🖥️ Operating Systems: Experienced with Ubuntu and Ubuntu Server.
-🔄 Version Control: Proficient in managing version control systems.
+⚙️ Web Technologies: Proficient in PHP, cakePHP, Laravel, Symfony, CodeIgniter.<br>
+📱 Mobile Technologies: Experienced in React Native.<br>
+📜 JavaScript Frameworks: Skilled in Bootstrap, jQuery, TypeScript.<br>
+🐍 Programming Languages: Fluent in Python.<br>
+📊 Google Workspace: Well-versed in Apps Script.<br>
+🌐 Platforms: Familiar with AWS, Digital Ocean.<br>
+🖥️ Operating Systems: Experienced with Ubuntu and Ubuntu Server.<br>
+🔄 Version Control: Proficient in managing version control systems.<br>
 In addition to the above, I possess expertise in Salesforce, UI Path, Automation Anywhere, website development, WordPress, Bootstrap, HTML5, CSS3, JavaScript, jQuery, PSD to HTML, PSD to WordPress, AngularJS, Node.js, and ReactJS, among others.
 
 I'm committed to providing top-notch solutions and unwavering support to meet your technological needs.
