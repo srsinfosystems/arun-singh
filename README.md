@@ -2,7 +2,21 @@
 
 <b>Welcome! I'm Arun Singh, dedicated to delivering Innovative Technology Solutions and ensuring Exceptional Service, available round the clock for support.</b>
 
-Backed by a robust educational foundation in Computer Science, including both master's and bachelor's degrees, I bring forth a wealth of technical proficiency honed through extensive programming experience.
+With over 15+ years of experience as a full stack and automation expert, I am a versatile problem solver with a track record of developing solutions for a wide range of business needs.
+
+🔹 Full Stack Development: With expertise in PHP, Python, Node.js, WordPress, Java, React, version control, MySQL, PG SQL, SQLite, and database design and optimization, I excel in creating robust and scalable web applications that meet the unique requirements of each project.
+
+🔹 Automation and Integration: From automating business processes using Google Apps Script, Zapier, and Make.com to integrating with third-party APIs such as Airtable, Knack, Slack, and PayPal, I specialize in streamlining workflows and maximizing efficiency.
+
+🔹 Ubuntu Server Management and Shell Script Development: Proficient in Ubuntu server management, including shell script development for automation and system administration tasks, I ensure seamless performance and reliability for your web projects. I am also an expert in AWS EC2, Lambda, Lightshell, Security, Apache configuration, MySQL Configuration, Load Balancer, Nginx.
+
+🔹 Project Management and Documentation: With a strong background in project planning and technical document writing, I ensure that projects are delivered on time and within budget, with clear documentation to support ongoing maintenance and scalability. I have a good understanding of Scrum and tools like Zira, Basecamp, Asana, HubSpot, etc.
+
+🔹 Platform Proficiency: I have invested over 1000 hours in seamlessly integrating and customizing platforms such as ZOHO, Salesforce, Zira, Xero, Monday.com, and several others. My expertise lies in integrating these platforms with web applications or Google Sheets to automate various activities, streamlining workflows, and enhancing efficiency.
+
+🔹 Industry Experience: With industry experience in development across human resource management, workforce management, financial applications, e-commerce, CRM and accounting, ERP, and shipping, I understand the unique challenges and requirements of various sectors. Whether it's optimizing HR processes, enhancing customer engagement through CRM solutions, or streamlining financial operations, I leverage my expertise to add tangible value to your business.
+
+Let's collaborate to transform your business ideas into reality and unlock the full potential of your digital initiatives.
 
 My expertise spans across various domains:
 
@@ -10,7 +24,8 @@ My expertise spans across various domains:
 📱 Mobile Technologies: Experienced in React Native.<br>
 📜 JavaScript Frameworks: Skilled in Bootstrap, jQuery, TypeScript.<br>
 🐍 Programming Languages: Fluent in Python.<br>
-	@@ -20,327 +18,7 @@ In addition to the above, I possess expertise in Salesforce, UI Path, Automation
+
+In addition to the above, I possess expertise in Salesforce, UI Path, Automation
 I'm committed to providing top-notch solutions and unwavering support to meet your technological needs.
 
 
